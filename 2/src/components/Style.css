@@ -1,0 +1,37 @@
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    column-gap: 16px;
+    row-gap: 16px;
+
+    
+}
+.div{
+    border: 2px solid black;
+    /* padding: 30px; */
+    margin: 380px;
+    margin-top: 5px;
+ background-color:silver;
+    /* border-radius: 50px; */
+}
+.h1{
+    background-color:darkgray;
+    color:aliceblue;
+    padding: 10px;
+    color: black;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  .h2{
+   
+    color:aliceblue;
+    color: black;
+}
+.T1{
+    color: black;
+}
