@@ -1,0 +1,11 @@
+.header{
+    width: 100%;
+    background-color: rgb(219, 219, 219);
+    display: flex;
+    padding: 0em 1em;
+}
+
+.cell{
+    padding: 1em 2em;
+    margin: 5px;
+}
